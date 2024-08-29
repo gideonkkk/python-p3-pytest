@@ -1,2 +1,3 @@
 def return_true():
-    return False
+     print("Function called")
+     return True
